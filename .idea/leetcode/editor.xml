@@ -347,10 +347,10 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/FindModeInBinarySearchTree.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/FindModeInBinarySearchTree.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P501_FindModeInBinarySearchTree.md" />
               <option name="frontendQuestionId" value="leetcode.cn501" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/FindModeInBinarySearchTree.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P501_FindModeInBinarySearchTree.java" />
               <option name="titleSlug" value="find-mode-in-binary-search-tree" />
             </LeetcodeEditor>
           </value>
@@ -578,10 +578,10 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/MergeTwoBinaryTrees.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/MergeTwoBinaryTrees.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P617_MergeTwoBinaryTrees.md" />
               <option name="frontendQuestionId" value="leetcode.cn617" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/MergeTwoBinaryTrees.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P617_MergeTwoBinaryTrees.java" />
               <option name="titleSlug" value="merge-two-binary-trees" />
             </LeetcodeEditor>
           </value>
@@ -674,6 +674,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P113_PathSumIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P113_PathSumIi.md" />
+              <option name="frontendQuestionId" value="leetcode.cn113" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P113_PathSumIi.java" />
+              <option name="titleSlug" value="path-sum-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java">
           <value>
             <LeetcodeEditor>
@@ -682,6 +693,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P4_MedianOfTwoSortedArrays.java" />
               <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P501_FindModeInBinarySearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P501_FindModeInBinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn501" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P501_FindModeInBinarySearchTree.java" />
+              <option name="titleSlug" value="find-mode-in-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/P617_MergeTwoBinaryTrees.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P617_MergeTwoBinaryTrees.md" />
+              <option name="frontendQuestionId" value="leetcode.cn617" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P617_MergeTwoBinaryTrees.java" />
+              <option name="titleSlug" value="merge-two-binary-trees" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -721,10 +754,10 @@
         <entry key="$PROJECT_DIR$/src/leetcode/editor/cn/PathSumIi.java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/PathSumIi.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/src/leetcode/editor/cn/doc/content/P113_PathSumIi.md" />
               <option name="frontendQuestionId" value="leetcode.cn113" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/PathSumIi.java" />
+              <option name="path" value="$PROJECT_DIR$/src/leetcode/editor/cn/P113_PathSumIi.java" />
               <option name="titleSlug" value="path-sum-ii" />
             </LeetcodeEditor>
           </value>
